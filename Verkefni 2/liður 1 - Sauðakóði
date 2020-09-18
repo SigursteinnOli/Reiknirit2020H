@@ -1,1 +1,10 @@
+input af binary tölu set í lista
+breyta fyrir summuna
+fyrir hvert stak í binary listanum
+  ef fyrsta stak í listanum er 1
+    summa += numerið í loopuni í öðru veldi
+    henda fyrsta stakinu út
+  annars
+    endurtaka
 
+prenta summuna
